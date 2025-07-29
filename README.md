@@ -64,7 +64,7 @@ The project includes the full schematic, PCB layout, firmware interface, and per
 - **Cost**: 40% lower than comparable commercial motor drivers with similar specs
 
 ---
-[View Schematic (PDF)](main/Scheamtic.pdf)
+[View Schematic (PDF)](main/Schematic.pdf)
 ![3D PCB View 1](3D_view1.png)
 ![3D PCB View 2](3D_view2.png)
 ![3D PCB View 3](3D_view3.png)
