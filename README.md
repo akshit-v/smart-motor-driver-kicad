@@ -65,11 +65,17 @@ The project includes the full schematic, PCB layout, firmware interface, and per
 
 ---
 [View Schematic (PDF)](Schematic.pdf)
+---
 ![3D PCB View 1](3D_view1.png)
+---
 ![3D PCB View 2](3D_view2.png)
+---
 ![3D PCB View 3](3D_view3.png)
+---
 ![3D PCB View 4](3D_view4.png)
+---
 ![Layout View](Layout_view.png)
+---
 
 
 
