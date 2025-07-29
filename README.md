@@ -32,10 +32,6 @@ The project includes the full schematic, PCB layout, firmware interface, and per
 
 ---
 
-
-
----
-
 ## Tools and Components Used
 
 - **Schematic & PCB Design**: KiCad
